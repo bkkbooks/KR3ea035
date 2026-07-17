@@ -30,14 +30,14 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ea035_000-jc.markers.yaml, hash: 'sha256:81c89121cf0e9da37ad8c3096cf64ff7080b1d533f166e5d907fd5729b736d9f'}
   - {seq: 1, role: markers, filename: assets/KR3ea035_001-jc.markers.yaml, hash: 'sha256:9a8bec287367d0e4d0527d74445a0ec0c18efe19d81601787c95426cc7ed24e8'}
-  - {seq: 2, role: markers, filename: assets/KR3ea035_002-jc.markers.yaml, hash: 'sha256:f07a4dd42b1e5e430ab0a2a75a10e654904b6429575b8c81e113c0599b8ec7f9'}
+  - {seq: 2, role: markers, filename: assets/KR3ea035_002-jc.markers.yaml, hash: 'sha256:7003997004395e6a660e142402d0d5b25b8b21bf98c8415a668c359d74826717'}
   - {seq: 3, role: markers, filename: assets/KR3ea035_003-jc.markers.yaml, hash: 'sha256:19ce5b4029fdbc9e2838eb4c0ae63dddc692c9a0f9f3fd65315a3408b3092ead'}
   - {seq: 4, role: markers, filename: assets/KR3ea035_004-jc.markers.yaml, hash: 'sha256:fd75e9c80e1e2dc87fdd8603556d800dd990358c00dfbe597766564f93474e07'}
   - {seq: 5, role: markers, filename: assets/KR3ea035_005-jc.markers.yaml, hash: 'sha256:d7a375e03e49d2a2ca7078119916628bfb8a4a3aea3343800e09c420e08ebac9'}
   - {seq: 6, role: markers, filename: assets/KR3ea035_006-jc.markers.yaml, hash: 'sha256:ef50228a7375e41959714f4ae5053915bc1b9eb7df9ea5a945ff7f27d4595432'}
-  - {seq: 7, role: markers, filename: assets/KR3ea035_007-jc.markers.yaml, hash: 'sha256:cb88927d134f63e19c3b5505b487896636ce81e37e63cb186648f18a757d9c92'}
+  - {seq: 7, role: markers, filename: assets/KR3ea035_007-jc.markers.yaml, hash: 'sha256:24b57138fd239196438eb0721d4a8501593e7c6cebf6ded28f9c60965d35d426'}
   - {seq: 8, role: markers, filename: assets/KR3ea035_008-jc.markers.yaml, hash: 'sha256:6c29bec74eecae6e398172c0f5126accfbdf7703ab9ae6cf2961f0e5b4897209'}
-  - {seq: 9, role: markers, filename: assets/KR3ea035_009-jc.markers.yaml, hash: 'sha256:568e811811e6d7ebe07b2b94bb7134c33638ae94e04d4d60a920c5aeadfa7eb6'}
+  - {seq: 9, role: markers, filename: assets/KR3ea035_009-jc.markers.yaml, hash: 'sha256:93f0542a71ef1fa1615f2d654cd5f343b11778d995fa6d35628eb7dc2ba68c47'}
 table_of_contents:
 - ref:
     seq: 0
@@ -949,4 +949,4 @@ table_of_contents:
   label: 癰疽第八十一
   type: section
   level: 2
-hash: sha256:536d0de8f430431952f592d219cb7cc657fba80f4999ea2b2a83017d5ce3e09b
+hash: sha256:e74f02822f4b2e7a415797c6ce097bd3dfc97bfbca022a1eaf3464a99c94f3a5
